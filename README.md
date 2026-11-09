@@ -10,7 +10,7 @@ Este repositorio contiene informes técnicos y ejecutivos de auditorías de segu
 * **Descripción:** Evaluación ofensiva de seguridad sobre un entorno web vulnerable, enfocada en la identificación de fallos críticos como exposición de código fuente, inyecciones SQL y ataques XSS.
 * **Nivel de Riesgo:** Alto.
 * **Autora:** Sonia Rando
-* **Archivo:** [Informe ejecutivo de red team.pdf](./Informe%20ejecutivo%20de%20red%20team.pdf)
+* **Archivo:** [Informe ejecutivo de red team.pdf](./Red%20team_informe.pdf)
 
 ### 2. Auditoría Forense y Respuesta a Incidentes (Blue Team)
 * **Descripción:** Análisis de registros de actividad (logs) de un servidor web, detección de actividad hostil coordinada, identificación de una brecha de fuerza bruta en el panel de bases de datos y propuestas de mitigación.
